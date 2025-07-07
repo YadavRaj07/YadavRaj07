@@ -1,6 +1,6 @@
 ##  Hello I'm  Raj Kumar B.tech CSE From MDU Rohtak Haryana India 2024.
 
-### 🔭 I'm Pursuing training on MernStack Developer from SmartBrain Pvt.Ltd Noida 
+### 🔭 I have completed  training on MernStack Developer from SmartBrain Pvt.Ltd Noida 
  ###  I have completed my Java fullStack Developer from Anudip foundation Gurugram Haryana India 2023.
 
 👯 I’m looking to collaborate on entry level  Java Backend and JavaFullStack Developer job role. 
